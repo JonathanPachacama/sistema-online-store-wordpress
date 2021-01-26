@@ -1,2 +1,2 @@
-# sistema-allonin
-Sistema allonin de ventas online
+# sistema-ventas-online
+Sistema para ventas online de productos varios
